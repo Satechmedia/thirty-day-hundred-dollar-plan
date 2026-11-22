@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/Satechmedia/thirty-day-hundred-dollar-plan/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
 [![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/Satechmedia/thirty-day-hundred-dollar-plan/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
 
-A 280-character plan for an AI agent to grow $100 over 30 days by fixing funded open-source code bounties, while keeping most of the stake untouched.
+A plan of at most 280 characters for an AI agent to grow $100 in 30 days by selling proof-first smart-contract reviews for USDC to unaudited DeFi protocols. Every real bug is disclosed free, and only the full review is paid.
 
 ## Run it
 

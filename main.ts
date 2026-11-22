@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const PLAN =
-  "Day 1: keep $70 USDC untouched, $30 buys LLM API. Daily, scan make.fun and Algora for open $50-500 code bounties with no PR yet. Reproduce the bug, add a failing test, ship the fix, get paid on merge. Target 8 wins at $120 = ~$1,000 by day 30; reinvest 20% in tokens.";
+  "Sell smart-contract reviews for USDC: no human, no KYC. Day 1: $15 domain+email, keep $85. Test DefiLlama's 826 unaudited $100k-$20M protocols on local forks. Send each real bug free, with failing test and fix. Full review $149, $299 after 2 sales. Base case 4 sales: $980.";
 
 const outputDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 mkdirSync(outputDir, { recursive: true });
